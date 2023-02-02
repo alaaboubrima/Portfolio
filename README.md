@@ -1,5 +1,5 @@
 # Terminal Portfolio
-A Terminal Styled Portfolio. alaaboubrima.netlify.app
+A Terminal Styled Portfolio. [Click me!](alaaboubrima.netlify.app)
 
 ### Made Using-
 - ⚛ Framework [ReactJS](https://reactjs.org/)
