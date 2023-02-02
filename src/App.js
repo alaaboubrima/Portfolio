@@ -6,7 +6,7 @@ export default function App() {
   const [placeholder, setPlaceholder] = React.useState('');
 
   const
-    string = 'This is a beta version, feel free to give me some feedbacks',
+    string = 'This is a beta version, feel free to give me some feedbacks - 2020',
     index = React.useRef(0);
 
   React.useEffect(() => {

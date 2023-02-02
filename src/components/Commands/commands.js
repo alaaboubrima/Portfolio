@@ -30,14 +30,7 @@ export default {
             fn: () => {
                 return `
                     \n---\n
-                    arabic        - 100%
-                    english       - 90%
-                    french        - 70%
-                    html5         - 90%
-                    css3          - 80%
-                    c             - 90%
-                    javascript    - 50%
-                    c#            - 10% [learning]\n---\n
+                    HTML5, CSS3, JavaScript, Python, C, R \n---\n
                 `
             }
         },
@@ -47,10 +40,10 @@ export default {
             fn: () => {
                 return `
                     \n---\n
-                    coding           - 75%
-                    studying         - 60%
-                    video-editing    - 80%
-                    photo-editing    - 80%\n---\n
+                    programming           
+                    video-editing    
+                    photo-editing    
+                    football as well :p\n---\n
                 `
             }
         },
