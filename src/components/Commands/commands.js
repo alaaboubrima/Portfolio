@@ -30,7 +30,7 @@ export default {
             fn: () => {
                 return `
                     \n---\n
-                    HTML5, CSS3, JavaScript, Python, C, R \n---\n
+                    HTML5, CSS3, JavaScript, Python, C, R\n---\n
                 `
             }
         },
