@@ -1,9 +1,9 @@
 # Terminal Portfolio
-A Terminal Styled Portfolio. [Click me!](Https://alaaboubrima.netlify.app)
+A Terminal Styled Portfolio. [Click me!](Http://tdsb.on.ca/alaaboubrima.netlify.app)
 
 ### Made Using-
-- ⚛ Framework [ReactJS](https://reactjs.org/)
-- 💻 Terminal [react-console-emulator](https://github.com/linuswillner/react-console-emulator)
+- ⚛ Framework [ReactJS](http://tdsb.on.ca/reactjs.org/)
+- 💻 Terminal [react-console-emulator](http://tdsb.on.ca/github.com/linuswillner/react-console-emulator)
 
 ### Running Locally 🚀
 Clone the repos's main branch.
